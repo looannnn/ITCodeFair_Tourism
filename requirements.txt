@@ -1,0 +1,44 @@
+# ITCodefair2025 - Economic Impact Analysis Requirements
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Advanced ML and NLP
+sentence-transformers>=2.2.0
+umap-learn>=0.5.3
+transformers>=4.30.0
+vaderSentiment>=3.3.2
+pyabsa>=2.0.0
+
+# Text processing and visualization
+wordcloud>=1.9.0
+
+# Web application framework
+streamlit>=1.25.0
+
+# Jupyter notebook dependencies
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Optional: Development and utility packages
+warnings  # Built-in Python module
+ast  # Built-in Python module
+re  # Built-in Python module
+
+# Note: Some packages like 'warnings', 'ast', and 're' are built-in Python modules
+# and don't need to be installed via pip
+
+# For emoji support in visualizations (if needed)
+# fonttools>=4.40.0
+
+# Installation command:
+# pip install -r requirements.txt
